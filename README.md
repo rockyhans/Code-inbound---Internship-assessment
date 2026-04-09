@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./Preview_image.png" alt="Preview Image" width="700"/>
+</p>
+
 # Customer Feedback Survey
 
 A React-based survey application built for collecting customer feedback in a shop environment.
